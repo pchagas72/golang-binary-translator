@@ -1,7 +1,7 @@
 package helper
 
 import (
-    "fmt"
+	"fmt"
 )
 
 func FindMaxWithIndex(array []int) (int, int){
@@ -41,5 +41,6 @@ func ReverseString(s string) string {
     }
     return string(runes)
 }
+
 
 
